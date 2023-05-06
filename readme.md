@@ -1,4 +1,5 @@
 ## Frontend Odev3
 ---
-![image]("C:\Users\Monster\Desktop\Screenshot 2023-05-07 004404.png")
-[patika.profile](https://app.patika.dev/emirhanbalci 'profile') 
+
+
+![Screenshot 2023-05-07 004404](https://user-images.githubusercontent.com/116453429/236647870-5525c321-4a9d-4515-9ff9-3eff08ea348f.png)
